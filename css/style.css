@@ -1,0 +1,7 @@
+#carousel_wrapper img{
+    display: none;
+}
+
+#carousel_wrapper .active{
+    display: block;
+}
